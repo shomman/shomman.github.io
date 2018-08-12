@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 // Breakpoints
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
@@ -8,14 +9,14 @@ $header-bg-color: #9D82EE !default;
 $header-bg-color-secondary: #E98BAD !default;
 
 // Text
-$section-headings-color: #a810c5 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #9D82EE !default;
-$blockquote-text-color: #E98BAD !default;
+$section-headings-color: #a810c5;
+$body-text-color: #606c71;
+$body-link-color: #9D82EE;
+$blockquote-text-color: #E98BAD;
 
 // Code
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+$code-bg-color: #f3f6fa;
+$code-text-color: #567482;
 
 // Borders
 $border-color: #dce6f0 !default;
