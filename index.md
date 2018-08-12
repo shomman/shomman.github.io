@@ -25,12 +25,14 @@ AAOL is currently mid-season, while signups are not open at this time, you can j
 
 ![Rise Up](https://i.imgur.com/CEQkGoI.png)
 
+The Rise Up Invitational is a tournament for teams looking to rise to the top level of competition in Oceania. It features some of the best up and coming talent in the region, who will battle it out over 5 weeks of competition. 8 teams have been invited, and the tournament will begin on August 19th. 
 
-#### Header 4
+#### Check it out here:
+*   Twitch: https://twitch.tv/AOEsports
+*   Toornament: 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+
+
 
 ##### Header 5
 
@@ -88,25 +90,3 @@ AAOL is currently mid-season, while signups are not open at this time, you can j
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
