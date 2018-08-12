@@ -10,17 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# AOE:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running the AAOL and the Rise Up Invitational. AOE also hosts community events on the AOE Discord. 
 
-## Header 2
+## AAOL
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> The AAOL is the largest independent Overwatch tournament in Oceania, currently serving over 500 players across 60 teams. The AAOL is open to players of any SR and hosts weekly matches in a relaxed environment, helping players improve their own skills as well as their teamplay. Players can sign up with or without a team - for those without a team, AOE will match them with other individual or non-team signups to create teams, which are supported by their AOE appointed Team Managers. 
 
-### Header 3
+The AAOL aims to create a casual competitive environment, in which people can learn, make friends and have the opportunity to escape the ranked experience in favour of organised weekly matches. 
+
+AAOL is currently mid-season, while signups are not open at this time, you can join our Discord to become a part of our community (and potentially substitute for teams!) and check out our weekly matches on our Twitch!
+
+## Rise Up Invitational
 
 ```js
 // Javascript code with syntax highlighting.
