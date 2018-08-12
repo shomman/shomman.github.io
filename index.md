@@ -12,7 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # **AOE**
 
-AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running the AAOL and the Rise Up Invitational. AOE also hosts community events on the AOE Discord. 
+AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running the AAOL and the Rise Up Invitational. AOE also hosts community events on the AOE Discord. [**Contact Page**](./contact.html)
+
+* * *
 
 ## AAOL
 
@@ -24,23 +26,12 @@ The AAOL aims to create a casual competitive environment, in which people can le
 
 AAOL is currently mid-season, while signups are not open at this time, you can join our Discord to become a part of our community (and potentially substitute for teams!) and check out our weekly matches on our Twitch!
 
+* * *
+
 ## Rise Up Invitational
 
 ![Rise Up](https://i.imgur.com/CEQkGoI.png)
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
