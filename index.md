@@ -16,9 +16,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## AAOL
 
-[AAOL](https://i.imgur.com/x9bIIrx.png)
+![AAOL](https://i.imgur.com/x9bIIrx.png)
 
-> The AAOL is the largest independent Overwatch tournament in Oceania, currently serving over 500 players across 60 teams. The AAOL is open to players of any SR and hosts weekly matches in a relaxed environment, helping players improve their own skills as well as their teamplay. Players can sign up with or without a team - for those without a team, AOE will match them with other individual or non-team signups to create teams, which are supported by their AOE appointed Team Managers. 
+The AAOL is the largest independent Overwatch tournament in Oceania, currently serving over 500 players across 60 teams. The AAOL is open to players of any SR and hosts weekly matches in a relaxed environment, helping players improve their own skills as well as their teamplay. Players can sign up with or without a team - for those without a team, AOE will match them with other individual or non-team signups to create teams, which are supported by their AOE appointed Team Managers. 
 
 The AAOL aims to create a casual competitive environment, in which people can learn, make friends and have the opportunity to escape the ranked experience in favour of organised weekly matches. 
 
@@ -26,7 +26,7 @@ AAOL is currently mid-season, while signups are not open at this time, you can j
 
 ## Rise Up Invitational
 
-[Rise Up](https://i.imgur.com/CEQkGoI.png)
+![Rise Up](https://i.imgur.com/CEQkGoI.png)
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
