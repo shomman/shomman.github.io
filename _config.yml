@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: AOE
 description: AOE
+google_analytics: [Your Google Analytics tracking ID]
