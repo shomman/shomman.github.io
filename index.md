@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# AOE:
+# **AOE**
 
-> AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running the AAOL and the Rise Up Invitational. AOE also hosts community events on the AOE Discord. 
+AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running the AAOL and the Rise Up Invitational. AOE also hosts community events on the AOE Discord. 
 
 ## AAOL
 
