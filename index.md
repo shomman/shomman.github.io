@@ -5,7 +5,7 @@ layout: default
 
 # **AOE**
 
-AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running the AAOL and the Rise Up Invitational. AOE also hosts community events on the AOE Discord. [**Contact us.**](./contact)
+AOE (Amateur Oceanic Esports) is organising tournaments and community events in Overwatch. Currently running Oceania's largest independent tournament, the AAOL and a proving ground for the up-and-coming talent in the region, the Rise Up Invitational. AOE also hosts community events on the AOE Discord. [**Contact us.**](./contact)
 
 * * *
 
