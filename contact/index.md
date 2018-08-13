@@ -8,7 +8,7 @@ Most of our operations are run through Discord, which you can join here!
 
 * * *
 
-#Social Media
+# Social Media
 
 *   [Twitter](https://twitter.com/aoesports)
 *   [Facebook](https://facebook.com/aoesports1)
