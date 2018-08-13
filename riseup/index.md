@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+
 ![Rise Up](https://i.imgur.com/CEQkGoI.png)
 
 On our one-year-anniversary, Amateur Oceanic Esports is excited to present Rise Up Community Invitational! The Rise Up Invitational is an invite only tournament for eight of the region's best up and coming teams, around the contenders trials level. These teams will compete against each other over five weeks for a share of the $400 prize pool. Matches will be streamed and casted by the best available talent out there every Sunday and Monday night from 7pm AEST onwards on our twitch channel, AOEsportslink.
