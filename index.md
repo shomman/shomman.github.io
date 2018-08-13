@@ -9,6 +9,17 @@ AOE (Amateur Oceanic Esports) is organising tournaments and community events in 
 
 * * *
 
+## Rise Up Invitational
+
+![Rise Up](https://i.imgur.com/CEQkGoI.png)
+
+The Rise Up Invitational is a tournament for teams looking to rise to the top level of competition in Oceania. It features some of the best up and coming talent in the region, who will battle it out over 5 weeks of competition. 8 teams have been invited, and the tournament will begin on August 19th. 
+
+#### Check it out on our Twitch. First match 7PM AEST 19/08/2018:
+*   Twitch: https://twitch.tv/AOEsports
+
+* * *
+
 ## AAOL
 
 ![AAOL](img/season4.png)
@@ -19,12 +30,3 @@ The AAOL aims to create a casual competitive environment, in which people can le
 
 AAOL is currently mid-season, while signups are not open at this time, you can join our Discord to become a part of our community (and potentially substitute for teams!) and [check out our weekly matches on our Twitch!](https://twitch.tv/aoesports)
 
-* * *
-## Rise Up Invitational
-
-![Rise Up](https://i.imgur.com/CEQkGoI.png)
-
-The Rise Up Invitational is a tournament for teams looking to rise to the top level of competition in Oceania. It features some of the best up and coming talent in the region, who will battle it out over 5 weeks of competition. 8 teams have been invited, and the tournament will begin on August 19th. 
-
-#### Check it out on our Twitch. First match 7PM AEST 19/08/2018:
-*   Twitch: https://twitch.tv/AOEsports
