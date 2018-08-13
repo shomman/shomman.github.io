@@ -11,7 +11,7 @@ AOE (Amateur Oceanic Esports) is organising tournaments and community events in 
 
 ## AAOL
 
-![AAOL](https://i.imgur.com/x9bIIrx.png)
+![AAOL](img/season4.png)
 
 The AAOL is the largest independent Overwatch tournament in Oceania, currently serving over 500 players across 60 teams. The AAOL is open to players of any SR and hosts weekly matches in a relaxed environment, helping players improve their own skills as well as their teamplay. Players can sign up with or without a team - for those without a team, AOE will match them with other individual or non-team signups to create teams, which are supported by their AOE appointed Team Managers. 
 
