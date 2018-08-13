@@ -13,7 +13,7 @@ AOE (Amateur Oceanic Esports) is organising tournaments and community events in 
 
 ![Rise Up](https://i.imgur.com/CEQkGoI.png)
 
-###[**Rise Up Information**](./riseup)
+### [**Rise Up Information**](./riseup)
 
 * * *
 
