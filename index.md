@@ -27,3 +27,12 @@ The AAOL aims to create a casual competitive environment, in which people can le
 
 AAOL is currently mid-season, while signups are not open at this time, you can join our Discord to become a part of our community (and potentially substitute for teams!) and [check out our weekly matches on our Twitch!](https://twitch.tv/aoesports)
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123793276-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123793276-1');
+</script>
