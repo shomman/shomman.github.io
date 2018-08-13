@@ -21,16 +21,6 @@ AAOL is currently mid-season, while signups are not open at this time, you can j
 
 * * *
 
-## Rise Up Invitational
-
-![Rise Up](https://i.imgur.com/CEQkGoI.png)
-
-The Rise Up Invitational is a tournament for teams looking to rise to the top level of competition in Oceania. It features some of the best up and coming talent in the region, who will battle it out over 5 weeks of competition. 8 teams have been invited, and the tournament will begin on August 19th. 
-
-#### Check it out here:
-*   Twitch: https://twitch.tv/AOEsports
-*   Toornament: 
-
 
 
 
