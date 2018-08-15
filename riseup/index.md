@@ -14,8 +14,6 @@ The Rise Up Invitational will kick off Sunday the 19th of August so mark your ca
 
 * * *
 
-## Maps:
-
 ![Maps](https://i.imgur.com/49zHVlZ.png)
 
 All 4 maps will be played in each match of the round robin. The first map is pre-determined by AOE, the remaining maps are chosen by the loser of the previous map. 
@@ -30,7 +28,6 @@ For playoffs, the format is Bo5, so once one team wins 3 maps, the game is over 
 
 * * *
 
-## Broadcast Team:
 
 ![Broadcast Team](https://i.imgur.com/Bt2zY48.png)
 
