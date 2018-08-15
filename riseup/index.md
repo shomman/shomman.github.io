@@ -33,22 +33,23 @@ For playoffs, the format is Bo5, so once one team wins 3 maps, the game is over 
 Every week four matches will be streamed by our talented crew of casters and streamers!
 
 **Our casters:**
-⋅⋅*[Dreamboat](https://twitter.com/Dreamboatcasts/)
+⋅⋅* [Dreamboat](https://twitter.com/Dreamboatcasts/)
 
-⋅⋅*[Cyberwaste](https://twitter.com/iAmCyberwaste/)
+⋅⋅* [Cyberwaste](https://twitter.com/iAmCyberwaste/)
 
-⋅⋅*[GLPhoenix](https://twitter.com/GLPhoenix/)
+⋅⋅* [GLPhoenix](https://twitter.com/GLPhoenix/)
 
-⋅⋅*[FBI_Tugboat](https://twitter.com/FBI_Tugboat/)
+⋅⋅* [FBI_Tugboat](https://twitter.com/FBI_Tugboat/)
 
-⋅⋅*Fliqqs
+⋅⋅* Fliqqs
 
 **Our streamers:**
-⋅⋅*zer0a!m 
 
-⋅⋅[*PinkyMacgyver](https://twitter.com/PinkyMacgyver/)
+⋅⋅* zer0a!m 
 
-⋅⋅*Pablo
+⋅⋅ [*PinkyMacgyver](https://twitter.com/PinkyMacgyver/)
+
+⋅⋅* Pablo
 
 
 #### Check it out on our Twitch. First match 7PM AEST 19/08/2018:
