@@ -34,14 +34,20 @@ Every week four matches will be streamed by our talented crew of casters and str
 
 **Our casters:**
 *[Dreamboat](https://twitter.com/Dreamboatcasts/)
+
 *[Cyberwaste] https://twitter.com/iAmCyberwaste/
+
 *GLPhoenix: https://twitter.com/GLPhoenix/
+
 *FBI_Tugboat: https://twitter.com/FBI_Tugboat/
+
 *Fliqqs
 
 **Our streamers:**
 *zer0a!m 
+
 *PinkyMacgyver: https://twitter.com/PinkyMacgyver/
+
 *Pablo
 
 
