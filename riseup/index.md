@@ -12,6 +12,8 @@ The first four weeks of the Rise Up Invitational will be a round robin bracket p
 
 The Rise Up Invitational will kick off Sunday the 19th of August so mark your calendars and come cheer on your favourite teams! More information will be released during the coming days so keep your eyes peeled.
 
+* * *
+
 ## Maps:
 
 All 4 maps will be played in each match of the round robin. The first map is pre-determined by AOE, the remaining maps are chosen by the loser of the previous map. 
@@ -23,6 +25,25 @@ N/A | Watchpoint: Gibraltar | Temple of Anubis | Eichenwalde
  
 
 For playoffs, the format is Bo5, so once one team wins 3 maps, the game is over and no more maps need to be played. The 5th map will be Nepal. In the case of 2 map ties, the 6th map will be Ilios.
+
+* * *
+
+## Broadcast Team:
+
+Every week four matches will be streamed by our talented crew of casters and streamers!
+
+**Our casters:**
+*[Dreamboat](https://twitter.com/Dreamboatcasts/)
+*[Cyberwaste] https://twitter.com/iAmCyberwaste/
+*GLPhoenix: https://twitter.com/GLPhoenix/
+*FBI_Tugboat: https://twitter.com/FBI_Tugboat/
+*Fliqqs
+
+**Our streamers:**
+*zer0a!m 
+*PinkyMacgyver: https://twitter.com/PinkyMacgyver/
+*Pablo
+
 
 #### Check it out on our Twitch. First match 7PM AEST 19/08/2018:
 [Twitch](https://twitch.tv/AOEsports)
