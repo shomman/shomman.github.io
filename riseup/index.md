@@ -45,7 +45,7 @@ Every week four matches will be streamed by our talented crew of casters and str
 * Fliqqs
 
 **Our streamers:**
-* zer0a!m 
+* [zer0a!m](https://www.twitter.com/zer0aim)
 
 * [PinkyMacgyver](https://twitter.com/PinkyMacgyver/)
 
