@@ -20,9 +20,9 @@ The Rise Up Invitational will kick off Sunday the 19th of August so mark your ca
 
 * * *
 
-##Teams
+## Teams
 
-[Teams](https://puu.sh/Bf8cj/8849784a3a.png) 
+![Teams](https://puu.sh/Bf8cj/8849784a3a.png) 
 
 * * *
 
