@@ -34,7 +34,8 @@ Control | Escort | Assault | Hybrid
 ------------ | ------------- | ------------ | -------------
 Lijiang Tower | Rialto | Horizon Lunar Colony  | King's Row
 N/A | Watchpoint: Gibraltar | Temple of Anubis | Eichenwalde
- 
+
+In the case of a tie, the tiebreaker map will be Nepal.
 
 For playoffs, the format is Bo5, so once one team wins 3 maps, the game is over and no more maps need to be played. The 5th map will be Nepal. In the case of 2 map ties, the 6th map will be Ilios.
 
