@@ -14,8 +14,8 @@ The Rise Up Invitational will kick off Sunday the 19th of August so mark your ca
 
 ## Important Links:
 
-* [AOE Twitch] (https://twitch.tv/aoesports)
-* [Toornament Page]
+* [AOE Twitch](https://twitch.tv/aoesports)
+* [Toornament Page](https://www.toornament.com/tournaments/1705417810959130624/information?_locale=en_US)
 * [AOE Discord](https://discord.gg/NmFWdUj)
 
 * * *
