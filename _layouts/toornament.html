@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+    <head>
+        <meta charset="UTF-8"> {% seo %}
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#5421e4">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    </head>
+
+    <body>
+        <header class="page-header" role="banner">
+            <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+            <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+            <div style="display: flex; display: -webkit-flex; flex-wrap: wrap; flex-direction: row; justify-content: center; align-items: center;align-content: center;">
+                <a href="https://discord.gg/NmFWdUj" style="flex: 0 0 auto; margin: 5px;">
+                    <svg width="50px" height="50px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="iconmonstr-discord-4" fill="#FFFFFF">
+                                <path d="M12,0 C5.374,0 0,5.372 0,12 C0,18.627 5.374,24 12,24 C18.627,24 24,18.627 24,12 C24,5.372 18.627,0 12,0 Z M15.248,18.348 L14.877,17.053 L15.773,17.886 L16.62,18.67 L18.125,20 L18.125,7.442 C18.125,6.644 17.481,6 16.69,6 L7.31,6 C6.519,6 5.875,6.644 5.875,7.442 L5.875,16.906 C5.875,17.704 6.519,18.348 7.31,18.348 L15.248,18.348 Z M13.988,15.142 L13.526,14.575 C14.443,14.316 14.793,13.742 14.793,13.742 C14.506,13.931 14.233,14.064 13.988,14.155 C13.638,14.302 13.302,14.4 12.973,14.456 C12.301,14.582 11.685,14.547 11.16,14.449 C10.761,14.372 10.418,14.26 10.131,14.148 C9.97,14.085 9.795,14.008 9.62,13.91 L9.592,13.894 L9.585,13.891 L9.557,13.875 L9.529,13.854 L9.333,13.735 C9.333,13.735 9.669,14.295 10.558,14.561 L10.089,15.142 C8.542,15.093 7.954,14.078 7.954,14.078 C7.954,11.824 8.962,9.997 8.962,9.997 C9.97,9.241 10.929,9.262 10.929,9.262 L10.999,9.346 C9.739,9.71 9.158,10.263 9.158,10.263 L9.571,10.06 C10.32,9.731 10.915,9.64 11.16,9.619 L11.279,9.605 C11.706,9.549 12.189,9.535 12.693,9.591 C13.358,9.668 14.072,9.864 14.8,10.263 C14.8,10.263 14.247,9.738 13.057,9.374 L13.155,9.262 C13.155,9.262 14.114,9.241 15.122,9.997 C15.122,9.997 16.13,11.824 16.13,14.078 C16.13,14.078 15.557,15.055 13.988,15.142 Z M13.288,11.873 C12.889,11.873 12.574,12.223 12.574,12.65 C12.574,13.077 12.896,13.427 13.288,13.427 C13.687,13.427 14.002,13.077 14.002,12.65 C14.002,12.223 13.687,11.873 13.288,11.873 Z M10.733,11.873 C10.334,11.873 10.019,12.223 10.019,12.65 C10.019,13.077 10.341,13.427 10.733,13.427 C11.132,13.427 11.447,13.077 11.447,12.65 C11.454,12.223 11.132,11.873 10.733,11.873 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </svg>
+                </a>
+                <a href="https://twitch.tv/aoesports" style="flex: 0 0 auto; margin: 5px;">
+                    <svg width="50px" height="50px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="iconmonstr-twitch-4" fill="#FFFFFF" fill-rule="nonzero">
+                                <path d="M10.224,17.806 L12,16.03 L15.343,16.03 L17.433,13.94 L17.433,7.254 L7.403,7.254 L7.403,16.03 L10.224,16.03 L10.224,17.806 Z M14.09,9.657 L15.344,9.657 L15.344,13.31 L14.09,13.31 L14.09,9.657 Z M10.746,9.657 L12,9.657 L12,13.31 L10.746,13.31 L10.746,9.657 Z M12,1.77635684e-15 C5.373,1.77635684e-15 0,5.373 0,12 C0,18.627 5.373,24 12,24 C18.627,24 24,18.627 24,12 C24,5.373 18.627,0 12,1.77635684e-15 Z M18.687,14.567 L15.03,18.224 L12.314,18.224 L10.537,20 L8.657,20 L8.657,18.224 L5.313,18.224 L5.313,8.403 L6.254,6 L18.687,6 L18.687,14.567 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </svg>
+                </a>
+                <a href="https://twitter.com/aoesports" style="flex: 0 0 auto; margin: 5px;">
+                    <svg width="50px" height="50px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="iconmonstr-twitter-4" fill="#FFFFFF" fill-rule="nonzero">
+                                <path d="M12,0 C5.373,0 0,5.373 0,12 C0,18.627 5.373,24 12,24 C18.627,24 24,18.627 24,12 C24,5.373 18.627,0 12,0 Z M18.066,9.645 C18.249,13.685 15.236,18.189 9.902,18.189 C8.28,18.189 6.771,17.713 5.5,16.898 C7.024,17.078 8.545,16.654 9.752,15.709 C8.496,15.686 7.435,14.855 7.068,13.714 C7.519,13.8 7.963,13.775 8.366,13.665 C6.985,13.387 6.031,12.143 6.062,10.812 C6.45,11.027 6.892,11.156 7.363,11.171 C6.084,10.316 5.722,8.627 6.474,7.336 C7.89,9.074 10.007,10.217 12.394,10.337 C11.975,8.541 13.338,6.81 15.193,6.81 C16.018,6.81 16.765,7.159 17.289,7.717 C17.943,7.589 18.559,7.349 19.113,7.02 C18.898,7.691 18.443,8.253 17.85,8.609 C18.431,8.539 18.985,8.385 19.499,8.156 C19.115,8.734 18.629,9.24 18.066,9.645 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </svg>
+                </a>
+                <a href="https://instagram.com/aoesports" style="flex: 0 0 auto; margin: 5px;">
+                    <svg width="50px" height="50px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="iconmonstr-instagram-14" fill="#FFFFFF" fill-rule="nonzero">
+                                <path d="M14.829,6.302 C14.091,6.268 13.869,6.262 12,6.262 C10.131,6.262 9.91,6.269 9.172,6.302 C7.273,6.389 6.389,7.288 6.302,9.172 C6.269,9.91 6.261,10.131 6.261,12 C6.261,13.869 6.269,14.09 6.302,14.829 C6.389,16.708 7.269,17.612 9.172,17.699 C9.909,17.732 10.131,17.74 12,17.74 C13.87,17.74 14.091,17.733 14.829,17.699 C16.728,17.613 17.611,16.711 17.699,14.829 C17.732,14.091 17.739,13.869 17.739,12 C17.739,10.131 17.732,9.91 17.699,9.172 C17.611,7.289 16.726,6.389 14.829,6.302 Z M12,15.595 C10.015,15.595 8.405,13.986 8.405,12 C8.405,10.015 10.015,8.406 12,8.406 C13.985,8.406 15.595,10.015 15.595,12 C15.595,13.985 13.985,15.595 12,15.595 Z M15.737,9.104 C15.273,9.104 14.897,8.728 14.897,8.264 C14.897,7.8 15.273,7.424 15.737,7.424 C16.201,7.424 16.577,7.8 16.577,8.264 C16.577,8.727 16.201,9.104 15.737,9.104 Z M14.333,12 C14.333,13.289 13.288,14.333 12,14.333 C10.712,14.333 9.667,13.289 9.667,12 C9.667,10.711 10.712,9.667 12,9.667 C13.288,9.667 14.333,10.711 14.333,12 Z M12,0 C5.373,0 0,5.373 0,12 C0,18.627 5.373,24 12,24 C18.627,24 24,18.627 24,12 C24,5.373 18.627,0 12,0 Z M18.958,14.886 C18.843,17.431 17.426,18.841 14.887,18.958 C14.14,18.992 13.901,19 12,19 C10.099,19 9.861,18.992 9.114,18.958 C6.57,18.841 5.159,17.429 5.042,14.886 C5.008,14.14 5,13.901 5,12 C5,10.099 5.008,9.861 5.042,9.114 C5.159,6.57 6.571,5.159 9.114,5.043 C9.861,5.008 10.099,5 12,5 C13.901,5 14.14,5.008 14.887,5.043 C17.432,5.16 18.844,6.575 18.958,9.114 C18.992,9.861 19,10.099 19,12 C19,13.901 18.992,14.14 18.958,14.886 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </svg>
+                    <a href="https://facebook.com/aoesports1" style="flex: 0 0 auto; margin: 5px;" alt="Facebook">
+                        <svg width="50px" height="50px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="iconmonstr-facebook-4" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M12,0 C5.373,0 0,5.373 0,12 C0,18.627 5.373,24 12,24 C18.627,24 24,18.627 24,12 C24,5.373 18.627,0 12,0 Z M15,8 L13.65,8 C13.112,8 13,8.221 13,8.778 L13,10 L15,10 L14.791,12 L13,12 L13,19 L10,19 L10,12 L8,12 L8,10 L10,10 L10,7.692 C10,5.923 10.931,5 13.029,5 L15,5 L15,8 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC6bIdo_ZN-QVg7LoEN7TFBA/" style="flex: 0 0 auto; margin: 5px;">
+                        <svg width="50px" height="50px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="iconmonstr-youtube-9" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M12,0 C5.373,0 0,5.373 0,12 C0,18.627 5.373,24 12,24 C18.627,24 24,18.627 24,12 C24,5.373 18.627,0 12,0 Z M16.441,16.892 C14.339,17.036 9.657,17.036 7.558,16.892 C5.282,16.736 5.017,15.622 5,12 C5.017,8.371 5.285,7.264 7.558,7.108 C9.657,6.964 14.34,6.964 16.441,7.108 C18.718,7.264 18.982,8.378 19,12 C18.982,15.629 18.715,16.736 16.441,16.892 Z M10,9.658 L14.917,11.996 L10,14.342 L10,9.658 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+            </div>
+        </header>
+        <main id="content" class="main-content" role="main">
+            <iframe width="640" height="360" src="https://widget.toornament.com/tournaments/1705417810959130624/stages/1705423340179415040/?_locale=en_US&theme=light" frameborder="0" allowfullscreen="true"></iframe>
+            
+            {{ content }}
+            <footer class="site-footer">
+            </footer>
+        </main>
+        {% if site.google_analytics %}
+        <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+        </script>
+        {% endif %}
+    </body>
+
+</html>
