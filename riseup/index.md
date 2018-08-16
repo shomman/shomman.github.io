@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: toornament
 ---
 
 
@@ -11,6 +11,12 @@ On our one-year-anniversary, Amateur Oceanic Esports is excited to present Rise 
 The first four weeks of the Rise Up Invitational will be a round robin bracket played between all eight teams. Each team will play one match every Sunday and Monday night, and will all be streamed once a week. After the round robin bracket the top four teams will enter the playoffs in our final week. The semi finals will be played on the Sunday night of the fifth week, and the grand finals the day after (the 16th and 17th of September respectively).
 
 The Rise Up Invitational will kick off Sunday the 19th of August so mark your calendars and come cheer on your favourite teams! More information will be released during the coming days so keep your eyes peeled.
+
+##Important Links:
+
+* AOE Twitch: https://twitch.tv/aoesports
+* Toornament Page: 
+* AOE Discord: https://discord.gg/NmFWdUj
 
 * * *
 
