@@ -12,7 +12,7 @@ The first four weeks of the Rise Up Invitational will be a round robin bracket p
 
 The Rise Up Invitational will kick off Sunday the 19th of August so mark your calendars and come cheer on your favourite teams! More information will be released during the coming days so keep your eyes peeled.
 
-##Important Links:
+## Important Links:
 
 * AOE Twitch: https://twitch.tv/aoesports
 * Toornament Page: 
