@@ -18,7 +18,7 @@ The Rise Up Invitational will kick off Sunday the 19th of August so mark your ca
 * [Toornament Page](https://www.toornament.com/tournaments/1705417810959130624/information?_locale=en_US)
 * [AOE Discord](https://discord.gg/NmFWdUj)
 * [Rise Up Ladder](https://aoesports.com.au/ladder/)
-* [Rise Up Schedule (also available on toornament)](https://aoesports.com.au/ladder/)
+* [Rise Up Schedule (also available on toornament)](https://aoesports.com.au/schedule/)
 
 * * *
 
